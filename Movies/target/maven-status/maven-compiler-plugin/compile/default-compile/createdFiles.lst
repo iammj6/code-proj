@@ -1,0 +1,4 @@
+com\ms\movies\models\MoviesResponse.class
+com\ms\movies\resources\MoviesResource.class
+com\ms\movies\app\SpringBootMoviesApp.class
+com\ms\movies\models\Movies.class

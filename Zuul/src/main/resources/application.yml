@@ -1,0 +1,33 @@
+spring: 
+  application:
+    name: zuul-service
+server:
+  port: 8084
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+zuul:
+  ignoredServices: '*'
+  ignore-security-headers: false
+  sensitive-headers: Cookie, Set-Cookie
+  retryable: true
+  ribbon-isolation-strategy: THREAD
+  thread-pool: 
+    use-seperate-thread-pool: true
+  prefix: /api
+  routes: 
+    movies: 
+      path: /moviesservice/**
+      serviceId: movies-service
+    ratings: 
+      path: /ratingsservice/**
+      serviceId: ratings-service
+    catalog: 
+      path: /catalogservice/**
+      url: http://localhost:8081
+  ribbon: 
+   eager-load: 
+     enabled: true
