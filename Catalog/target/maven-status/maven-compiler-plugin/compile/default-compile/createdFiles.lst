@@ -1,0 +1,11 @@
+com\ms\catalog\models\MoviesResponse.class
+com\ms\catalog\app\SpringBootCatalogApplication.class
+com\ms\catalog\models\MovieCatalogResponse.class
+com\ms\services\impl\RatingsServiceImpl.class
+com\ms\services\impl\MoviesServiceImpl.class
+com\ms\services\RatingsService.class
+com\ms\catalog\models\Ratings.class
+com\ms\catalog\models\RatingsResponse.class
+com\ms\catalog\resources\CatalogResource.class
+com\ms\services\MoviesService.class
+com\ms\catalog\models\Movies.class

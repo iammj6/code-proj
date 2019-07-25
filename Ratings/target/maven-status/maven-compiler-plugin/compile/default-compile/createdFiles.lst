@@ -1,0 +1,4 @@
+com\ms\ratings\app\SpringBootRatingApp.class
+com\ms\ratings\models\RatingsResponse.class
+com\ms\ratings\models\Ratings.class
+com\ms\ratings\resources\RatingResource.class

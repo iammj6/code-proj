@@ -1,0 +1,11 @@
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\services\RatingsService.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\app\SpringBootCatalogApplication.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\models\Ratings.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\models\Movies.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\services\impl\MoviesServiceImpl.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\services\MoviesService.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\models\RatingsResponse.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\services\impl\RatingsServiceImpl.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\models\MoviesResponse.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\models\MovieCatalogResponse.java
+E:\Java Learnings\Microservices\Catalog\src\main\java\com\ms\catalog\resources\CatalogResource.java
